@@ -1,0 +1,21 @@
+{
+  "name": "sample-redux",
+  "version": "1.0.0",
+  "description": "Sample implement of Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jingyi Ding",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "jest": "^24.7.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.4.3"
+  }
+}
